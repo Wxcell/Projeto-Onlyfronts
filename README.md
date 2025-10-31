@@ -1,2 +1,2 @@
 # Projeto-Onlyfronts
-Projeto do segundo semestre da faculdade
+Projeto do primeiro semestre da faculdade feito em grupo!
